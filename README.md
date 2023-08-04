@@ -1,6 +1,6 @@
 ### Hello moto 👋
 
-[![Status GitHub](https://github-readme-stats.vercel.app/api?username=andrejue)](https://github.com/anuraghazra/github-readme-stats)
+[![Status GitHub](https://github-readme-stats.vercel.app/api?username=andrejue&show_icons=true&theme=dark)](https://andrejuedev.vercel.app/)
 
 Nossa, quanta estrela.
 
