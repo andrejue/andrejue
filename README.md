@@ -22,5 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejue&layout=compact&theme=transparent)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
 
-Obs: A API do card acima está instável ultimamente, clique nele para mais detalhes.<br>
-Nossa, quanta estrela.
+Click on the card for details.
