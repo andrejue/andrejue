@@ -2,6 +2,8 @@
 
 [![Status GitHub](https://github-readme-stats.vercel.app/api?username=andrejue)](https://github.com/anuraghazra/github-readme-stats)
 
+Nossa, quanta estrela.
+
 - 🔭 Front-end.
 - 🌱 Estudando ... TypeScript, Node.js, React.
 - 🤔 I’m looking for help with ... GET A JOB AAAAAAAAA
